@@ -17,6 +17,7 @@ public class Ejercicio1 {
 
 		System.out.println("El IMS es: " + ims);
 		System.out.printf("El IMS es: %.2f", ims);
+		System.out.println("Practica correcta");
 
 	}
 
