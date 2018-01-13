@@ -5,6 +5,8 @@ import java.util.*;
 public class Ejercicio1 {
 
 	public static void main(String[] args) {
+		
+		//Calcular el IMS usando la funcion Math
 		Scanner sc = new Scanner(System.in);
 
 		double ims;
